@@ -19,3 +19,5 @@ Materials for a two-day introduction to neural networks, with one morning sessio
 - [Feedforward neural network lab](session-2-practice/08-feedforward-network/)
 
 Start with the `student_` notebooks where available. Instructor notebooks and the feedforward lab solution are included for reference.
+
+If all that code feels overwhelming, take a playful break with [Google’s Teachable Machine](https://teachablemachine.withgoogle.com/) and try training your own image classifier without writing code! Experiment with a few objects around you, see what your model learns, and remember: every curious experiment is another step toward understanding neural networks.
